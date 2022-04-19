@@ -7,7 +7,7 @@
 
   <servlet>
   	<servlet-name>wml</servlet-name>
-  	<servlet-class>com.netas.avaya.WMLServlet</servlet-class>
+  	<servlet-class>org.ao.iphone.avaya.WMLServlet</servlet-class>
   	<load-on-startup>1</load-on-startup>
   </servlet>
   <servlet-mapping>

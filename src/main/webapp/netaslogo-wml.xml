@@ -2,9 +2,9 @@
 <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
 <wml>
 
-<card id="idIndex" title="NETAS- Avaya IPPS">
+<card id="idIndex" title="Avaya IPPS">
 
-<p><img src="/ippswebmvc/images/netas-logo.jpg" alt="image not rendered" /></p>
+<p><img src="/ippswebmvc/images/" alt="image not rendered" /></p>
 
 </card>
 

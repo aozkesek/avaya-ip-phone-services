@@ -16,7 +16,7 @@
 		http://www.springframework.org/schema/task/spring-task-3.0.xsd"
 >
 
-	<context:component-scan base-package="com.netas.avaya.ipps"/>
+	<context:component-scan base-package="org.ao.iphone.avaya.ipps"/>
 	<task:annotation-driven />	
 	
 </beans>

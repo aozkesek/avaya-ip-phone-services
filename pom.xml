@@ -2,14 +2,14 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   
-  <groupId>com.netas.avaya</groupId>
+  <groupId>org.ao.iphone.avaya</groupId>
   <artifactId>ippswebmvc</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   
-  <name>Netas Avaya IP Phone Services</name>
+  <name>IP Phone Services</name>
   
-  <url>http://www.netas.com.tr</url>
+  <url>https://github.com/aozkesek</url>
   
   <dependencies>
     
